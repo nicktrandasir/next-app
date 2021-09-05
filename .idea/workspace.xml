@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../next-app/pages/cars.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../next-app/pages/users.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/navbarLayout/navbarLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbarLayout/navbarLayout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <updated>1630848962192</updated>
       <workItem from="1630848963332" duration="23000" />
       <workItem from="1630849021137" duration="469000" />
-      <workItem from="1630849566332" duration="8615000" />
+      <workItem from="1630849566332" duration="9630000" />
     </task>
     <servers />
   </component>

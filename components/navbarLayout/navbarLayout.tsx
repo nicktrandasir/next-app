@@ -5,10 +5,11 @@ import { theme } from "../../pages/_app";
 import Head from "next/head";
 
 const NavbarLayout = ({ children, keywords }: any) => {
-  return (
+    return (
     <div>
         <Head>
-            <meta keywords={keywords}></meta>
+            {/*// @ts-ignore*/}
+            <meta keywords={keywords}/>
             <title>Next-App</title>
 
         </Head>
