@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d04c87d-b72b-43e9-9b04-546cd42f4fe4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/link/a.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/navbarLayout/navbarLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/404.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../next-app/.eslintrc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../next-app/pages/cars.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../next-app/pages/users.js" beforeDir="false" />
@@ -28,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -91,7 +82,7 @@
       <updated>1630848962192</updated>
       <workItem from="1630848963332" duration="23000" />
       <workItem from="1630849021137" duration="469000" />
-      <workItem from="1630849566332" duration="7808000" />
+      <workItem from="1630849566332" duration="8125000" />
     </task>
     <servers />
   </component>
