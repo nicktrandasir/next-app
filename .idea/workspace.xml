@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d04c87d-b72b-43e9-9b04-546cd42f4fe4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../next-app/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../next-app/pages/cars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../next-app/pages/users.js" beforeDir="false" />
+    <list default="true" id="0d04c87d-b72b-43e9-9b04-546cd42f4fe4" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/navbarLayout/navbarLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbarLayout/navbarLayout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_DEX" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,7 +81,17 @@
       <workItem from="1630848963332" duration="23000" />
       <workItem from="1630849021137" duration="469000" />
       <workItem from="1630849566332" duration="9630000" />
+      <workItem from="1630859403611" duration="2592000" />
+      <workItem from="1630917962914" duration="41000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1630859986720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630859986720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +108,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
